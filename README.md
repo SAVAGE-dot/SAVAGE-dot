@@ -28,7 +28,7 @@
 
 - <h3> Relational & Non-Relational Databases </h3>
   
-  <img src="https://img.shields.io/badge/MSSQL-%23CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -53,11 +53,12 @@
   
   <img src="https://img.shields.io/badge/Figma-7434a4?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-3c240c.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=f8a829" alt="Illustrator" />
 
-- <h4> Currently Learning </h4>
-  --Nothing
+ <!-- 
+ - <h4> Currently Learning </h4>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  
+  -->
 
 </div>
 
